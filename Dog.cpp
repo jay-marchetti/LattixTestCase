@@ -16,3 +16,8 @@ void Dog::Eat(void)
 	k = 1;
 	Animal::Eat();
 }
+
+void Dog::Bark(void)
+{
+	int j = 1;
+}

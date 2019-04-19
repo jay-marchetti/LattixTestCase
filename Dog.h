@@ -7,5 +7,6 @@ public:
 	Dog();
 	~Dog();
 	void Eat();
+	void Bark();
 };
 
